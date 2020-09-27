@@ -4,17 +4,23 @@ about:
   image: images/company/about.jpg
   title: Learning a new language is discovering a new world!
   content: |-
-    Professional experience:
-    - Language specialist (Italian, English, French): conference interpreter, business negotiation
-    interpreter, technical translator, language tutor
-    - ESL Teacher for a bilingual (Italian and English) lower secondary school in Italy
-    - Training and on-boarding manager for a multinational company in the localization business
-    - IT Communication manager – Corporate communication – for leading tech multinationals in Silicon
-    Valley
-    Education:
-    - Master in European Business – Junior MBA – ESCP Europe
-    - Master degree in Conference Interpreting (Italian/English and Italian/French)
-    - Degree in translation studies and cultural mediation
+    <p><span style="text-decoration: underline;"><strong>Professional experience:</strong></span></p>
+    <ul>
+    <li>Language specialist (Italian, English, French):
+    <ul>
+    <li>conference interpreter, business negotiation interpreter, technical translator, language tutor</li>
+    </ul>
+    </li>
+    <li>ESL Teacher for a bilingual (Italian and English) lower secondary school in Italy</li>
+    <li>Training and on-boarding manager for a multinational company in the localization business</li>
+    <li>IT Communication manager &ndash; Corporate communication &ndash; for leading tech multinationals in Silicon Valley</li>
+    </ul>
+    <p><strong><span style="text-decoration: underline;">Education:</span></strong></p>
+    <ul>
+    <li>Master in European Business &ndash; Junior MBA &ndash; ESCP Europe</li>
+    <li>Master degree in Conference Interpreting (Italian/English and Italian/French)</li>
+    <li>Degree in translation studies and cultural mediation</li>
+    </ul>
   button:
     enable: false
     label: Download Company Profile
