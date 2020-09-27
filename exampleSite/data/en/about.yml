@@ -1,6 +1,6 @@
 ---
 about:
-  enable: true
+  enable: false
   image: images/company/about.jpg
   title: Learning a new language is discovering a new world!
   content: |-
